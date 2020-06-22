@@ -1,5 +1,5 @@
 # CS210
-My work for the Programming Languages course
+My work for the Programming Languages course.
 Currently includes my Project 2 file
 
 #Summarize the project and what problem it was solving.
